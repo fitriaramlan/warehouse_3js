@@ -1,0 +1,65 @@
+html {
+	margin:0;
+	padding:0;
+}
+
+body {
+	margin:0;
+	padding:0;
+}
+
+#menu {
+	width: 1200px;
+	height: 220px;
+	margin: 0 auto;
+	padding: 0;
+	border: 1px solid black;
+}
+
+#tampung {
+	width: 1200px;
+	height: 700px;
+	border:1px solid black;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+}
+
+#sim {
+	display: none;
+}
+
+#canv {
+	width: 1200px;
+	height: 700px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#submenu {
+	width: 120px;
+	height: 150px;
+	background-color: rgb(200,0,100);
+	font-size: 30px;
+	text-align: center;
+	padding-top:20px;
+	float: left;
+}
+
+#submenu2 {
+	width: 1080px;
+	height: 150px;
+	background-color: rgb(250,0,60);
+	font-size: 16px;
+	text-align: center;
+	padding-top:20px;
+	float: left;
+}
+#frmSeting {
+	float:left;
+	height: 100px;
+}
+
+#sim {
+	width: 200px;
+}
